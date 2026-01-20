@@ -2,3 +2,4 @@ Motivation:
 
 I want to join the open house because I want to learn CSS so I can build better, more effective funnels. Funnels need clean layouts, proper spacing, mobile responsiveness, and fast-loading pages—CSS controls all of that. I don’t want to rely only on templates; I want the ability to customize designs, fix layout issues, and optimize pages for conversions. Learning CSS will let me create funnels that look professional, work smoothly on any device, and actually convert. This open house is a practical step toward that goal.
 
+I have basic experience working with websites and funnels, mainly using builders and templates. I’ve handled simple page setups, layout adjustments, and basic styling, and I’m now looking to strengthen my foundation by learning CSS so I can customize designs properly instead of relying only on presets.
